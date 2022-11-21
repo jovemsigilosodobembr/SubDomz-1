@@ -48,8 +48,8 @@ amass=~/.config/amass/config.ini
 wordlist=Wordlist/dns.txt
 GITHUB_TOKEN="TOKEN_HERE"
 SHODAN_APIKEY="9aCd0pJwiENvPnk2JqqnGQI03GnH3fyh"
-CENSYS_ID="ID_HERE"
-CENSYS_SECRET="SECRET_HERE"
+CENSYS_ID="d39eba45-a110-44a7-a971-9e146f8d03d7"
+CENSYS_SECRET="Nk886PBs3z5DYSHrjHVZJYUefRcwEjXT"
 
 spinner(){
 	processing="${1}"
